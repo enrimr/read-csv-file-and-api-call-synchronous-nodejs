@@ -1,0 +1,20 @@
+{
+  "name": "read-csv-file-and-api-call-synchronous-nodejs",
+  "version": "1.0.0",
+  "description": "Sample code to read a CSV file and make an API Call using Axios in asynchronous mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "csv-parse": "^5.0.4",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "json2csv": "^5.0.7",
+    "node-csv": "^0.1.2"
+  }
+}
